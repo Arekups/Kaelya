@@ -1,0 +1,8 @@
+{
+  "estado": "normal",
+  "mensaje_bienvenida": "Bienvenido a la casa de Kaelya... hoy la niebla está densa.",
+  "fondo": "fondos/fondo1.jpg",
+  "diario_visible": true,
+  "habitacion_secreta_abierta": false,
+  "sonido_fondo": "sonidos/musica1.mp3"
+}
